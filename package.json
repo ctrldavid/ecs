@@ -1,0 +1,25 @@
+{
+  "name": "ecs",
+  "version": "0.0.0",
+  "description": "ecs ===",
+  "main": "index.js",
+  "dependencies": {
+    "flora": "git+ssh://git@github.com:ctrldavid/flora.git",
+    "node-uuid": "~1.4.1",
+    "server": "git://github.com/ctrldavid/rest.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ctrldavid/ecs.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ctrldavid/ecs/issues"
+  },
+  "homepage": "https://github.com/ctrldavid/ecs"
+}
